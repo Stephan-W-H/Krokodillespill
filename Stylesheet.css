@@ -1,0 +1,22 @@
+.center {
+    text-align: center;
+    
+    
+}
+
+.button {
+    font-size: 15px;
+    
+}
+
+body {
+    background-color: darkslategray;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 10%;
+}
